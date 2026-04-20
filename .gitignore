@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pkl
+*.egg-info/
+.env
+.venv/
+venv/
+data/fd_customers.csv
+data/fd_customers_segmented.csv
+models/*.pkl
+.DS_Store
+*.ipynb_checkpoints
